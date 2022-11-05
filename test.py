@@ -9,3 +9,8 @@ print('Receberemos um codigo pra ver se o site esta no ar', requisicao)
 
 # tranformando o cod recebido em json
 print(requisicao.json())
+
+# usando a requisicao.json como variavel
+api_resposta = requisicao.json()
+
+print(api_resposta['total_vendas'])
