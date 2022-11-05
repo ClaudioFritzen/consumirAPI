@@ -1,6 +1,7 @@
 Como consumir uma API cria por você no RePlit
  
  Essa API foi criada para fins didaticos.
+ A base de dados está junto com o projeto
 
  # codigo usado no replit
  import pandas as pd
